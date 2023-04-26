@@ -38,7 +38,7 @@ PLAYER_NAME = "KY-KY"
 ```
 python -m pip install -r requirements.txt
 ```
-5. The "run" is launched first server.py " -> then "run_client.py "
+5. The "run" is launched first run_server.py " -> then "run_client.py "
 provided that you are at the root of the project:
 ```
 python run_server.py
